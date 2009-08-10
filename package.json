@@ -1,0 +1,11 @@
+{
+    "name": "wiky",
+    "description": "A bidirectional Wiki markup to and from HTML converter written in JavaScript.",
+    "url": "http://goessner.net/articles/wiky/",
+    "license": "LGPL 2.1 (http://creativecommons.org/licenses/LGPL/2.1/)",
+    "keywords": ["wiky", "wiki", "markup", "parser", "formatter"],
+    "author": "Stefan Goessner (http://goessner.net/)",
+    "maintainer": "Kris Kowal (http://askawizard.blogspot.com) <kris.kowal@cixar.com>",
+    "contributors": [],
+    "dependencies": []
+}
