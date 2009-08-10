@@ -1,5 +1,6 @@
 {
     "name": "wiky",
+    "version": "0.95",
     "description": "A bidirectional Wiki markup to and from HTML converter written in JavaScript.",
     "url": "http://goessner.net/articles/wiky/",
     "license": "LGPL 2.1 (http://creativecommons.org/licenses/LGPL/2.1/)",
