@@ -1,9 +1,8 @@
-
-[Wiky](http://groessner.net/articles/wiky)
+[Wiky](http://goessner.net/articles/wiky)
 ==========================================
 
 A bidirectional Wiki markup to and from HTML converter written in JavaScript by
-[Stefan Groessner](http://groessner.net/).
+[Stefan Goessner](http://goessner.net/).
 
 Package
 -------
